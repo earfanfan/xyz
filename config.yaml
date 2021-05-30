@@ -1,6 +1,6 @@
 baseURL: https://yuanfan.xyz
 languageCode: en-us
-title: Hugo
+title: 阿木狗主
 theme: "hugo-theme-mini"
 
 # for exampleSite only, you may need to delete the line: `themesDir: ../../` 
@@ -34,7 +34,7 @@ params:
   # Site Author
   author: 阿木狗主
   # Author biography
-  bio: 这是yuanfan.ver.app的备用域名，暂不启用，用来折腾学习
+  bio: 这是yuanfan.vercel.app的备用域名，暂不启用，用来折(瞎)腾(碰)学(乱)习(试)
   # Site Description, used in HTML meat
   description: My Blog
   enableRSS: true
