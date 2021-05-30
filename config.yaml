@@ -1,4 +1,4 @@
-baseURL: https://example.com
+baseURL: https://yuanfan.xyz
 languageCode: en-us
 title: Hugo
 theme: "hugo-theme-mini"
@@ -32,9 +32,9 @@ social:
 # Site parameters
 params:
   # Site Author
-  author: Author
+  author: 阿木狗主
   # Author biography
-  bio: Software Engineer
+  bio: 这是yuanfan.ver.app的备用域名，暂不启用，用来折腾学习
   # Site Description, used in HTML meat
   description: My Blog
   enableRSS: true
@@ -44,15 +44,15 @@ params:
   enableGoogleAnalytics: true
 
   # Optional
-  home: '' # Default: Home
-  about: '' # Default: About
-  archive: '' # Default: Archive
-  tags: '' # Default: Tags
-  subscribe: '' # Default: Subscribe
-  olderPosts: '' # Default: Older Posts
-  newerPosts: '' # Default: Newer Posts
-  copyright: '' # Default: © Copyright 2021 ❤️ author
-  title404: '' # Default: 404 - Page Not Found
+  home: '主页' # Default: Home
+  about: '关于' # Default: About
+  archive: '博客' # Default: Archive
+  tags: '标签' # Default: Tags
+  subscribe: '订阅' # Default: Subscribe
+  olderPosts: '后面的猫' # Default: Older Posts
+  newerPosts: '前面的狗' # Default: Newer Posts
+  copyright: '© Copyright 2021 ❤️ 阿木狗主' # Default: © Copyright 2021 ❤️ author
+  title404: '阿木狗主云游天外了' # Default: 404 - Page Not Found
   subtitle404: '' # Default: The content you're looking for doesn't seem to exist.
   readMore: '' # Default: Read More
 
