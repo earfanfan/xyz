@@ -8,6 +8,7 @@ theme: "hugo-theme-mini"
 hasCJKLanguage: true
 permalinks:
   posts: /posts/:title/
+  R-ME: /R-ME/:title/
 
 googleAnalytics: your-google-analytics-id
 disqusShortname: your-disqus-shortname
@@ -47,6 +48,7 @@ params:
   home: '主页' # Default: Home
   about: '关于' # Default: About
   archive: '博客' # Default: Archive
+  R-ME: 'R-ME'
   tags: '标签' # Default: Tags
   subscribe: '订阅' # Default: Subscribe
   olderPosts: '后面的猫' # Default: Older Posts
