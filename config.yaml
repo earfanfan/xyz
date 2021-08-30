@@ -2,6 +2,7 @@ baseURL: https://yuanfan.xyz
 languageCode: en-us
 title: 阿木狗主
 theme: "hugo-theme-mini"
+paginate: 9
 
 # for exampleSite only, you may need to delete the line: `themesDir: ../../` 
 
